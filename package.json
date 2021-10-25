@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Module 10 Activity",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeleelksm/jest-another-RPG.git"
+  },
+  "author": "Keshia-Lee Martin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest":"27.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/eeleelksm/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/eeleelksm/jest-another-RPG#readme"
+}
