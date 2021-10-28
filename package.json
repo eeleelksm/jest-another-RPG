@@ -13,10 +13,13 @@
   "author": "Keshia-Lee Martin",
   "license": "ISC",
   "devDependencies": {
-    "jest":"27.3.1"
+    "jest": "27.3.1"
   },
   "bugs": {
     "url": "https://github.com/eeleelksm/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/eeleelksm/jest-another-RPG#readme"
+  "homepage": "https://github.com/eeleelksm/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
 }
